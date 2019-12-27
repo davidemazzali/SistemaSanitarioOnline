@@ -1,2 +1,0 @@
-SSO/target/
-SSO/out/
