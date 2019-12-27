@@ -1,4 +1,0 @@
-./SSO/target/
-./SSO/out/
-./apache-tomcat-9.0.21/
-
